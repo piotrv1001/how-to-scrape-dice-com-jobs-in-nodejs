@@ -112,6 +112,10 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each job li
 
 **[Open the Dice.com Jobs Scraper on Apify](https://apify.com/piotrv1001/dice-com-jobs-scraper)**
 
+## Related resources
+
+- [How to Scrape Dice Job Listings and Tech Hiring Data](https://www.falconscrape.com/blog/how-to-scrape-dice-job-listings-and-tech-hiring-data) — blog post with a deeper dive into the actor and use cases
+
 ## License
 
 MIT
