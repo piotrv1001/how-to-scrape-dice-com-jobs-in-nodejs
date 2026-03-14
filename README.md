@@ -2,6 +2,8 @@
 
 This example shows how to scrape Dice.com job listings in Node.js using the [Dice.com Jobs Scraper](https://apify.com/piotrv1001/dice-com-jobs-scraper) actor on Apify. No need to deal with headless browsers or anti-bot measures — just call the actor with your search parameters and get structured job data back.
 
+![Dice.com Jobs Scraper results](dice_results.png)
+
 ## What this example does
 
 - Calls the Dice.com Jobs Scraper actor via the Apify API
